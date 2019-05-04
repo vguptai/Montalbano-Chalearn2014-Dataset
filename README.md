@@ -1,16 +1,20 @@
 # Montalbano-Chalearn2014-Dataset
 Montalbano (Chalearn2014) Gesture recognition dataset
 
+**Method 1:**
+
 The data can be downloaded from the competition page after registering on codalab.
 
 https://competitions.codalab.org/competitions/991
 
 The download link might prompt for password. Please use the following:
 
-Username: chalapT3dev
+Username: chalapT3dev\
 Password: kwH3ct0R88yPA3o
 
 This username/password has been provided publicly by the authors.
+
+**Method 2:**
 
 Alternatively,
 
